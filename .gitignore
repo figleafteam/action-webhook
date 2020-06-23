@@ -1,0 +1,10 @@
+*.exe
+.idea
+etalon/*
+*.bin
+*.pem
+patchingService
+bin/*
+api/bin/*
+.terraform/*
+ */.terraform/*
